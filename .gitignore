@@ -1,6 +1,15 @@
 # OSX
 .DS_STORE
 
+# source documents 
+source_documents/
+
+# config 
+config.json 
+
+
+.vscode/
+
 # Models
 models/
 
